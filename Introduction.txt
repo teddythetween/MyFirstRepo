@@ -1,0 +1,3 @@
+Brief Introduction About Myself
+My name is Teddy Karugi Githinji. I am interested in sports, cars, music, technology, fashion and learning new digital skills. I enjoy exploring software development, problem-solving, and working on projects that help me grow professionally.
+I am currently learning how to use GitHub for version control and collaboration. This repository is part of my learning journey, and I look forward to building more projects in the future.

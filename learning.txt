@@ -1,0 +1,1 @@
+I have learned how Git works, including cloning repositories, creating files, committing changes, and pushing to GitHub.
